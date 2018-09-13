@@ -8,7 +8,7 @@ public class PersonTools {
 	public static Person getPerson() {
 		Person person = new Person();
 
-		person.setFirstName("Florian");
+		person.setFirstName("FLORIAN");
 		person.setName("ROY");
 
 		return person;
