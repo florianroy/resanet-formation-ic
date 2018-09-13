@@ -6,7 +6,7 @@ public class PersonTools {
 	 * @return
 	 */
 	public static Person getPerson() {
-		Person person = new Peson();
+		Person person = new Person();
 
 		person.setFirstName("Florian");
 		person.setName("ROY");
