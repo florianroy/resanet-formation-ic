@@ -6,9 +6,9 @@ public class PersonTools {
 	 * @return
 	 */
 	public static Person getPerson() {
-		Person person = new Person();
+		Person person = new Peson();
 
-		person.setFirstName("FLORIAN");
+		person.setFirstName("Florian");
 		person.setName("ROY");
 
 		return person;
