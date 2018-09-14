@@ -8,7 +8,7 @@ public class PersonTest {
 	@Test
 	public void test1() {
 		Person p = new Person();
-		p.setName("Zenika");
+		p.setName("Flo");
 		p.setFirstName("Zenika first name");
 
 		Assert.assertEquals("Zenika", p.getName());
